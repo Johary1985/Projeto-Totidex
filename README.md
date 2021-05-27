@@ -7,7 +7,7 @@
 * O Angular Framewok foi usado para gerar o consumo de nosso API-Totidex.
 * Contém 01 serviço e 2 componentes dependendo do serviço.
 * Uso de Bootstrap e CCS para o design.
-* Requisitos operacionais de 100% do nosso serviço.
+* Requisiçoes funcionando ao 100%.
 
 <b>Para iniciar:<b>
 
