@@ -12,9 +12,9 @@
 <b>Para iniciar:<b>
 
 - Abra 02 terminais, um para iniciar o Back-end e outro para o Front-End (lembre-se de mudar as pastas com "cd")
-- `npm install`  
-  
-  <b>Back-end<b> ⭐️ https://github.com/Johary1985/API-Totidex.git ⭐️
+- `npm install`
+- `ng server`    
+- `Back-end` ⭐️ https://github.com/Johary1985/API-Totidex.git ⭐️
 
 Enjoy!
 
